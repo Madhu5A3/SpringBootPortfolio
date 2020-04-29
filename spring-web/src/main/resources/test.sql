@@ -1,0 +1,5 @@
+insert into robot values (1,'madhu')
+insert into robot values (2,'madhu')
+insert into robot values (3,'madhu')
+insert into robot values (4,'madhu')
+insert into robot values (5,'madhu')
