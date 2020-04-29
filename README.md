@@ -1,2 +1,2 @@
 # SpringBootPortfolio
-Sample Code Samples of Spring Boot
+Code Samples of Spring Boot
